@@ -4,8 +4,8 @@ and Regression. Look for an appropriate dataset to implement the algorithms to s
 problems. The work should be done as follows:
 ## Classification
 Identify a problem and an appropriate dataset and implement the classification by using:
-  i. KNN Algorithm
-  ii. Decision Trees
+1. KNN Algorithm
+2. Decision Trees
 Compare the performance of the models on the same dataset in terms of accuracy.
 ## Regression
 Identify a regression problem and an appropriate dataset and implement an ANN model to 
@@ -14,7 +14,7 @@ conduct the prediction task.
 stage.
 ## Submission Instructions
 The submission should include:
-  i. The dataset used.
-  ii. A pdf document including details of group members, a brief introduction to the 
+1. The dataset used.
+2. A pdf document including details of group members, a brief introduction to the 
   problem, and a link to the GitHub account where the implemented code is maintained. 
-  iii. Submissions to be done only by group leaders.
+3. Submissions to be done only by group leaders.
