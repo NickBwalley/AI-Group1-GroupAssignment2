@@ -1,4 +1,4 @@
-# Group A
+# Stream: Group A
 ## AI GROUP ASSIGNMENT TWO
 In your respective groups, suggest one problem for each of the learning methods i.e. Classification 
 and Regression. Look for an appropriate dataset to implement the algorithms to solve the 
